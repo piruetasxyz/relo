@@ -2,4 +2,7 @@
 .DS_Store
 
 # Kicad
+*-backups/
+*.kicad_prl
 .history/
+*.lck
