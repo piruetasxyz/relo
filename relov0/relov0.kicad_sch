@@ -5385,7 +5385,7 @@
 				)
 			)
 		)
-		(property "Value" "47u"
+		(property "Value" "220u"
 			(at 96.901 69.85 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5872,7 +5872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
+		(property "Footprint" "dis8644:spdt_ssd12d00g3"
 			(at 52.07 25.4 0)
 			(hide yes)
 			(show_name no)
