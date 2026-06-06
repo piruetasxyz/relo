@@ -2932,6 +2932,10 @@
 		(uuid "83362c73-ca54-446f-8b4c-63f3b0721ad4")
 	)
 	(no_connect
+		(at 46.99 86.36)
+		(uuid "c2acac42-f98f-4548-ac47-21a7a8216cbf")
+	)
+	(no_connect
 		(at 46.99 22.86)
 		(uuid "cf72ccdd-a14a-476b-95e5-3fc2d578ad61")
 	)
